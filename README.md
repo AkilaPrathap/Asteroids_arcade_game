@@ -4,6 +4,8 @@
 • Space is made up of regions (squares of the grid) 12 wide by 7 high.<br/>
 •  The regions of space are populated by 11 asteroids, each in one region of space, and
 located as shown in Figure 1. <br/>
+![image](https://github.com/user-attachments/assets/d3438d65-199c-44b9-8232-6fd69bb424a1)
+
 • The Spaceship occupies only one square at a time which must be either an "empty space 
 square" or the Starbase in its square (6,4). <br/>
 For example, the Spaceship can be in region (5, 3), but not (8, 3) as it is occupied by an 
